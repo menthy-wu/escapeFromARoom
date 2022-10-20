@@ -1,4 +1,4 @@
-This game is made in 2018, derived from my teacher's code of a photo switching program he showed us in class, and I change it to a puzzle game. The code of pic, photoship, button, sway and text are mostly from the teacher.
+This game is made in 2019, derived from my teacher's code of a photo switching program he showed us in class, and I change it to a puzzle game. The code of pic, photoship, button, sway and text are mostly from the teacher.
 # LittleZombieSpring
 
 If you are in windows, you may open the exe file to play the game
